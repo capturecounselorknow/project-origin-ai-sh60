@@ -1,4 +1,4 @@
-# 
+# Sécurisé AI leaf disease detection system plugins. Avec traitement en temps réel et extraction de caractéristiques — optimisé pour des performances maximales.
 
 
 
